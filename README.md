@@ -12,7 +12,7 @@ Bu projeyi çalıştırabilmek için bazı gereksinimleri bilgisayarınıza kurm
 
 1. **Python İndirin ve Kurun**:
    - [Python'un resmi web sitesine](https://www.python.org/downloads/) gidin.
-   - İşletim sisteminize uygun en son Python sürümünü indirin.
+   - Python 3.12.x sürümünü indirin.
    - Kurulum sırasında **"Add Python to PATH"** seçeneğinin işaretli olduğundan emin olun.
 
 2. **Python ve Pip Kurulumu Kontrol Edin**:
@@ -45,7 +45,7 @@ Bu projeyi çalıştırabilmek için bazı gereksinimleri bilgisayarınıza kurm
      1. **Bu PC** ya da **Bilgisayar**'a sağ tıklayın ve **Özellikler**'i seçin.
      2. **Gelişmiş sistem ayarları**'na tıklayın, ardından **Ortam Değişkenleri**'ni seçin.
      3. **Sistem Değişkenleri** altında **Path** adlı değişkeni bulun ve **Düzenle**'ye tıklayın.
-     4. FFMPEG'in bulunduğu klasör yolunu (örneğin `C:\ffmpeg\bin`) listeye ekleyin.
+     4. FFMPEG'in bulunduğu klasör yolunun içindeki "bin" klasörünü (örneğin `C:\ffmpeg\bin`) listeye ekleyin.
 
 3. **FFMPEG Kurulumunu Doğrulayın**:
    - Komut istemcisini açın ve aşağıdaki komutu çalıştırın:
