@@ -74,12 +74,5 @@ Bu projeyi çalıştırabilmek için bazı gereksinimleri bilgisayarınıza kurm
 ---
 
 ### Projeyi Çalıştırmak İçin Ek Adımlar
-
-Gereksinimler kurulduktan sonra, projeyi çalıştırmaya hazırsınız.
-
-1. Bu depo dosyasını bilgisayarınıza indirin veya klonlayın.
-2. Proje dizinine gidin.
-3. Python bağımlılıklarını yüklemek için aşağıdaki komutu çalıştırın:
-   ```bash
-   pip install -r requirements.txt
+WhisperUI.exe dosyasını indirin ve sağ tıklayıp yönetici olarak çalıştırın
 
